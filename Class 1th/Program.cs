@@ -4,6 +4,8 @@ class Program
     static void Main(string[] args)
     //static void Main(string[] args)
     //프로그램의 진입점 역할을 수행하는 함수입니다.
+
+    // Main() 프로젝트 내에서 단 하나만 존재해야 합니다.
     {
         
         #region 자료형
@@ -49,6 +51,34 @@ class Program
 
         // 변수는 프로그램이 실행되는 동안 값을 바꿀 수 있으며,
         // 원래 저장되어 있는 값은 새로 저장되는 값에 의해 지워집니다.
+
+        #endregion
+
+        #region 변수의 이름 규칙
+
+        // 1. 변수의 이름은 중복이 허용되지 않습니다.
+        //ex) int data:
+        //ex) int data;
+
+        // 2. 변수의 이름으로 대소문자를 구분합니다.
+        int value;
+        int VALUE;
+
+        // 3. 변수의 이름으로 예약어를 사용할 수 없습니다.
+        //ex) int int;
+
+        // 4. 변수의 이름으로 특수 기호는 "_"만 허용합니다.
+        //int tabel = 200;
+
+        // 5. 변수의 이름에 공백이 포함될 수 없습니다.
+        //ex) int count down = 5;
+
+        // 6. 변수의 이름은 숫자로 시작할 수 없으며, 컴파일하는
+        //    동안 어휘 분서겡서 역 추적을 피할 수 있으므로,
+        //    시작 위치에서만 숫자를 사용할 수 없습니다.
+
+        //ex) int 1th;
+        //ex) int class2th;
 
         #endregion
     }
