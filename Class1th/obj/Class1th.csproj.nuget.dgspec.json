@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\1\\CShap\\Class 2th\\Class 2th.csproj": {}
+    "C:\\Users\\user\\Desktop\\1\\CShap\\Class1th\\Class1th.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\1\\CShap\\Class 2th\\Class 2th.csproj": {
+    "C:\\Users\\user\\Desktop\\1\\CShap\\Class1th\\Class1th.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\1\\CShap\\Class 2th\\Class 2th.csproj",
-        "projectName": "Class 2th",
-        "projectPath": "C:\\Users\\user\\Desktop\\1\\CShap\\Class 2th\\Class 2th.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\1\\CShap\\Class1th\\Class1th.csproj",
+        "projectName": "Class1th",
+        "projectPath": "C:\\Users\\user\\Desktop\\1\\CShap\\Class1th\\Class1th.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\1\\CShap\\Class 2th\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\1\\CShap\\Class1th\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
