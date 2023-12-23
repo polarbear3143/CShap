@@ -121,7 +121,7 @@ class Program
         // 특정한 자료형이 표현할 수 있는 최댓값의 범위
         // 를 넘어서 연산을 수행하는 과정입니다.
 
-        short gas = 36870;
+        //short gas = 36870;
 
         #endregion
 
@@ -135,9 +135,3 @@ class Program
     }
 
 }
-
-
-
-
-//주석 처리 : Ctrl + K + C
-// 주석 해제 : Ctrl + K + U
